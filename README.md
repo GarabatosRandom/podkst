@@ -1,2 +1,2 @@
 # podkst
-Social tool to record podcasts online
+Social tool for podcast online recording
